@@ -1,0 +1,18 @@
+1. Install Python on the Client Laptop
+Install Python (version 3.10 or higher recommended):
+
+🔗 Download Python for Windows
+
+During installation:
+
+✅ Check “Add Python to PATH”
+
+✅ Click “Install Now”
+
+2.Install Required Libraries
+Packge bat
+
+pip install ttkbootstrap
+pip install openpyxl
+pip install gspread
+oauth2client
